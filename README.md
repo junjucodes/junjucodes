@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junjucodes
-- 👀 I’m interested in Data Scince
-- 🌱 I’m currently learning Python,Comptia Security+ and Data Anlysis in Python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python,Comptia Security+ and Data Analysis in Python
 - 💞️ I’m looking to collaborate on a various apps
 - 📫 How to reach me:
   insta:choko_one
