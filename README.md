@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junjucodes
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python,Comptia Security+ and Data Analysis in Python
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning for Microsoft 365 Administrator Certificate.
 - 💞️ I’m looking to collaborate on a various apps
 - 📫 How to reach me:
   insta:choko_one
